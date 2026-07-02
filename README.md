@@ -131,19 +131,19 @@ Users can filter results by:
 
 ### Main Dashboard
 
-> *(Add a screenshot here)*
+![Dashboard Over View](screenshots/Dashboard Over view.png)
 
 ### Accident Trends
 
-> *(Add a screenshot here)*
+![Accidents Trend](screenshots/Accidents Trend.png)
 
 ### Road Conditions Analysis
 
-> *(Add a screenshot here)*
+![Environmental Condition Analysis](screenshots/Environmental Condition Analysis.png)
 
 ### Casualty Analysis
 
-> *(Add a screenshot here)*
+![Casualty Analysis](screenshots/Casualty Analysis.png)
 
 
 ## 💡 Key Insights
